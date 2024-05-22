@@ -1,14 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "DataBaseProject/Jar Files/javafx-swt.jar",
-        "DataBaseProject/Jar Files/javafx.base.jar",
-        "DataBaseProject/Jar Files/javafx.controls.jar",
-        "DataBaseProject/Jar Files/javafx.fxml.jar",
-        "DataBaseProject/Jar Files/javafx.graphics.jar",
-        "DataBaseProject/Jar Files/javafx.media.jar",
-        "DataBaseProject/Jar Files/javafx.swing.jar",
-        "DataBaseProject/Jar Files/javafx.web.jar",
-        "DataBaseProject/Jar Files/sqlite-jdbc-3.45.3.0.jar"
+        "/Users/juanmorelos/Downloads/mysql-connector-j-8.0.31.jar",
+        "/Users/juanmorelos/Documents/PachoTemp/javafx-sdk-22.0.1/lib/**/*.jar"
     ]
 }
