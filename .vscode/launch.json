@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MySQLTest",
+            "request": "launch",
+            "mainClass": "hellofx.MySQLTest",
+            "projectName": "DataBaseProject_f9bc31a3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "hellofx.Main",
+            "projectName": "DataBaseProject_f9bc31a3",
+            "vmArgs": "--module-path /Users/juanmorelos/Documents/PachoTemp/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Connect",
+            "request": "launch",
+            "mainClass": "hellofx.Connect",
+            "projectName": "DataBaseProject_6cb20fed"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "hellofx.Main",
+            "projectName": "DataBaseProject_6cb20fed",
+            "vmArgs": "--module-path /Users/juanmorelos/Documents/PachoTemp/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics"
+        }
+    ]
+}
+
